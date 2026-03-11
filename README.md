@@ -17,5 +17,5 @@ Projektuję i wdrażam wydajne aplikacje. Skupiam się na rygorystycznym typowan
 </div>
 
 ### 📫 Terminal Kontaktowy
-- **LinkedIn:** [[Wklej URL]](https://www.linkedin.com/in/paweł-piekarski-7a9135354/)
+- **LinkedIn:** (https://www.linkedin.com/in/paweł-piekarski-7a9135354/)
 - **Portfolio:** 
